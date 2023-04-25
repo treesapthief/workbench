@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vueapp", "vueapp\vueapp.esproj", "{D127E802-0A39-43EC-919D-07A492A1E8DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi", "webapi\webapi.csproj", "{32A7CA18-3EC0-4F15-9173-20071ED4D485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D127E802-0A39-43EC-919D-07A492A1E8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D127E802-0A39-43EC-919D-07A492A1E8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D127E802-0A39-43EC-919D-07A492A1E8DB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D127E802-0A39-43EC-919D-07A492A1E8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D127E802-0A39-43EC-919D-07A492A1E8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D127E802-0A39-43EC-919D-07A492A1E8DB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{32A7CA18-3EC0-4F15-9173-20071ED4D485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A7CA18-3EC0-4F15-9173-20071ED4D485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A7CA18-3EC0-4F15-9173-20071ED4D485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A7CA18-3EC0-4F15-9173-20071ED4D485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33CFC07F-D653-4102-8FFA-494F6F665066}
+	EndGlobalSection
+EndGlobal
